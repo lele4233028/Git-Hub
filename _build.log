@@ -1,0 +1,9 @@
+﻿ninja: Entering directory `C:\Users\Administrator\Desktop\Test\TestDemo\build\Debug'
+[1/4] Building C object CMakeFiles/TestDemo.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+[2/4] Building C object CMakeFiles/TestDemo.dir/Core/Src/stm32f1xx_it.c.obj
+[3/4] Building C object CMakeFiles/TestDemo.dir/Core/Src/main.c.obj
+[4/4] Linking C executable TestDemo.elf
+Memory region         Used Size  Region Size  %age Used
+             RAM:        1592 B        20 KB      7.77%
+           FLASH:        4888 B        64 KB      7.46%
+EXITCODE=0
